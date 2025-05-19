@@ -20,3 +20,5 @@ Respositório para armazenar o Projeto sugerido: Criando Um Organizador de Decla
 
 [Documentação Consulta CEP criado por Fernando R (Ramosbrazil): ](https://github.com/ramosbrazil/CEP-de-todos-os-estados-Brasileiros---Brazilian-ZIP-CODE/blob/master/brasil_all_ceps.csv
 )
+
+P.S.: A base de dados CEP está fixa, sendo um arquivo. Futuramente em nova versão seria possível inserir esta base através de API do próprio Correios, sendo tal versão paga.
