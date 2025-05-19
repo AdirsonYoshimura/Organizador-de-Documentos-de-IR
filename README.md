@@ -10,9 +10,10 @@ Respositório para armazenar o Projeto sugerido: Criando Um Organizador de Decla
     2. Utilização de diversas fórmulas de busca;
     3. Utilização de formatações especiais de células;
     4. Utilização de validações de dados;
-    5. Elaboração de documento reduzindo a aparência de uma planilha Excel;
+    5. Elaboração de documento reduzindo a aparência de uma planilha Excel (Barras de formulas, títulos, tela inteira, etc);
     6. Inclusão de links externos e internos;
     7. Conexão com arquivos externos para dados;
+    8. Utilização de opções para proteção de áreas de digitação;
 
 ### Recursos adicionais inseridos:
     1. Inserção de Código VBA para validação do CPF;
