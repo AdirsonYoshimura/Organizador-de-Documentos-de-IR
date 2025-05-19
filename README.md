@@ -14,7 +14,7 @@ Respositório para armazenar o Projeto sugerido: Criando Um Organizador de Decla
     6. Inclusão de links externos e internos;
     7. Conexão com arquivos externos para dados;
     8. Utilização de PowerQuery para transformação de dados;
-    8. Utilização de opções para proteção de áreas de digitação;
+    9. Utilização de opções para proteção de áreas de digitação;
 
 ### Recursos adicionais inseridos:
     1. Inserção de Código VBA para validação do CPF;
