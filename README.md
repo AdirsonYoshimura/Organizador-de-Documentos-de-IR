@@ -13,6 +13,7 @@ Respositório para armazenar o Projeto sugerido: Criando Um Organizador de Decla
     5. Elaboração de documento reduzindo a aparência de uma planilha Excel (Barras de formulas, títulos, tela inteira, etc);
     6. Inclusão de links externos e internos;
     7. Conexão com arquivos externos para dados;
+    8. Utilização de PowerQuery para transformação de dados;
     8. Utilização de opções para proteção de áreas de digitação;
 
 ### Recursos adicionais inseridos:
