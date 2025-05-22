@@ -1,7 +1,7 @@
 
 # Curso Santanter/DIO: Excel com Inteligencia Artificial
 
-Respositório para armazenar o Projeto sugerido: Criando Um Organizador de Declaração de Imposto de Renda.
+Repositório para armazenar o Projeto sugerido: Criando Um Organizador de Declaração de Imposto de Renda.
 
 ## Descrição do Objetivo e Recursos Utilizados:
 ### Documentação Técnica:
